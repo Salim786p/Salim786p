@@ -9,7 +9,7 @@
 I am an intermediate full stack developer, graphic and Adobe designer working for the past few years. I am always enthusiastic about new creative projects for which I use my imagination and skill to provide an elegant solution for any project. My main objective is to create beautiful digital products and provide unique design solutions. Always open to challenges that will keep me learning. Looking forward to working on exciting upcoming projects with innovative people.
 
 
-- 💻 {( Got All India Rank in GATE 2025 and planning to do M.Tech. from IIT.)}
+- 💻 {( Got All India Rank 871 in GATE 2025 and planning to do M.Tech. from IIT.)}
 - 🧑‍ {( I've always had a knack for viewing things from a unique perspective and discovering something new in them. Each new day, I hope to find multiple opportunities to learn and grow, which truly brings me joy. New technologies have consistently inspired me—not only to explore them but also to learn valuable lessons through them. )}
 - 👨🏽‍💻 {( Currently growing my skillset in [Machine Learning](https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/) and [Competitive Programming](https://onlinecourses.nptel.ac.in/noc22_cs59/preview). )}
 
@@ -28,7 +28,7 @@ I am an intermediate full stack developer, graphic and Adobe designer working fo
 [![Connect on StackOverflow](https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat&amp;labelColor=white&amp;logo=StackOverflow&amp;logoColor=FE7A16)](https://stackoverflow.com)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-blue?style=flat&amp;labelColor=white&amp;logo=kaggle&amp;logoColor=blue)](https://www.kaggle.com)
 
-- 🌱 I’m currently in love with <b>DeepLearning</b>
+- 🌱 I’m currently in enjoying the <b>ProblemSloving</b>
 - 🔭 Simultaneously exploring <b>Web3</b>
 - 💬 Ask me about **Web Development** , **Open Source Contributions** and **Internships**
 - 👯 I’m looking to collaborate on **Open Source Projects**
