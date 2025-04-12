@@ -11,7 +11,7 @@ I am an intermediate full stack developer, graphic and Adobe designer working fo
 
 - 💻 {( Got All India Rank in GATE 2025 and planning to do M.Tech. from IIT.)}
 - 🧑‍ {( I've always had a knack for viewing things from a unique perspective and discovering something new in them. Each new day, I hope to find multiple opportunities to learn and grow, which truly brings me joy. New technologies have consistently inspired me—not only to explore them but also to learn valuable lessons through them. )}
-- 👨🏽‍💻 {( Currently growing my skillset in [Machine Learning](https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/) and [Data Science](https://www.ibm.com/in-en/analytics/data-science?utm_content=SRCWW&p1=Search&p4=43700052658080620&p5=e&gclid=CjwKCAjwjtOTBhAvEiwASG4bCOOPlVssk_4G8dh6UR3f61_GTWuGGigy4KQbieXS3AWBz5gug98I-BoCxI8QAvD_BwE&gclsrc=aw.ds). )}
+- 👨🏽‍💻 {( Currently growing my skillset in [Machine Learning](https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/) and [Competitive Programming](https://onlinecourses.nptel.ac.in/noc22_cs59/preview). )}
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Salim786p&label=Profile%20views&color=32CD32&style=flat" alt="Salim786p" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
