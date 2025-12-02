@@ -49,12 +49,13 @@ I am a **Full Stack Developer** and **Researcher** with a knack for viewing thin
 
 ## 📊 The Numbers
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Salim786p&show_icons=true&theme=radical&hide_border=true&bg_color=141321&count_private=true" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salim786p&layout=compact&theme=radical&hide_border=true&bg_color=141321" height="150" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Salim786p&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salim786p&layout=compact&theme=radical&hide_border=true" height="150" alt="languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Salim786p&theme=radical&hide_border=true&background=141321" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Salim786p&theme=radical&hide_border=true" alt="streak" />
 </div>
 
 ---
