@@ -49,13 +49,19 @@ I am a **Full Stack Developer** and **Researcher** with a knack for viewing thin
 
 ## 📊 The Numbers
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Salim786p&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salim786p&layout=compact&theme=radical&hide_border=true" height="150" alt="languages" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Salim786p&show_icons=true&theme=radical&count_private=true" height="150" alt="stats" />
+  </a>
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salim786p&layout=compact&theme=radical&langs_count=6" height="150" alt="languages" />
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Salim786p&theme=radical&hide_border=true" alt="streak" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Salim786p&theme=radical&hide_border=true" alt="streak" />
+  </a>
 </div>
 
 ---
