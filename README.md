@@ -7,6 +7,10 @@
 </div>
 
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=800&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Salim+Akhter+Ansari;GATE+2025+AIR+871;M.Tech(CS)+@+IIT+Kharagpur;Aspiring+Software+Developer" alt="Typing SVG" />
+</div>
+
+<div align="center">
   <br/>
   <a href="https://linkedin.com/in/salim-ansari-83b381237">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2"/>
