@@ -36,8 +36,8 @@
 
 I am a passionate **Software Developer** focused on building efficient and scalable applications. With a strong foundation in computer science principles, I enjoy tackling complex challenges and continuously learning new technologies.
 
-* 🏆 **Major Milestone:** Cracked **GATE 2025** with an impressive **All India Rank of 871**.
-* 🎓 **Future Focus:** Planning to pursue M.Tech at **IIT Kharagpur** to further specialize in Computer Science.
+* 🏆 **Achievement Unlocked:** Cracked **GATE 2025** with an impressive **All India Rank of 871**.
+* 🎓 **Academics:** Currently pursuing M.Tech at **IIT Kharagpur** in Computer Science.
 * 💻 **Current Focus:** Strengthening my core software development skills and working on innovative personal projects.
 * ⚡ **Fun fact:** I love designing and travelling to explore new places.
 
