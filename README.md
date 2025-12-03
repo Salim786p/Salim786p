@@ -21,7 +21,10 @@
   <a href="https://leetcode.com/Salim786p/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&color=F79F1B"/>
   </a>
-  <a href="https://www.hackerrank.com/Salim786p">
+  <a href="https://www.geeksforgeeks.org/profile/ansarisalim786p?tab=overview">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/ansarisalim786p">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&color=2EC866"/>
   </a>
 </div>
