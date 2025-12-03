@@ -76,5 +76,10 @@ I am a passionate **Software Developer** focused on building efficient and scala
 <br/>
 
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Salim786p&label=Profile%20Views&color=B026FF&style=flat-square" alt="Salim786p" />
+</div>
+
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
+
