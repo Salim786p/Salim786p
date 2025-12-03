@@ -55,27 +55,31 @@ I am a passionate **Software Developer** focused on building efficient and scala
 
 ---
 
-## 📊 The Numbers
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Salim786p&show_icons=true&theme=radical&count_private=true" height="150" alt="stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salim786p&layout=compact&theme=radical&langs_count=6" height="150" alt="languages" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Salim786p&theme=radical&hide_border=true" alt="streak" />
-  </a>
-</div>
-
----
-
 ## 🚀 Projects
-*(Currently working on exciting new projects. Will update this section soon!)*
+### 🖥️ MyTerm: A Custom Terminal Built from Scratch
 
+**MyTerm** is a fully functional, GUI-based terminal emulator that I built to understand the depths of Linux system programming. Instead of using existing terminal libraries, I engineered the interface and the shell logic entirely in **C** using the **X11** windowing system.
+
+**Key Features:**
+* **✨ Custom GUI:** A raw X11 implementation supporting **multiple tabs**, scrolling, and real-time text rendering.
+* **🚀 Process Manager:** A custom shell engine that handles command execution, pipes (`|`), and file redirection (`>`, `<`) just like Bash.
+* **⚡ Parallelism:** Features a custom `multiWatch` command to run and monitor multiple programs simultaneously.
+* **🛠️ Productivity Tools:** Includes smart tab-completion for files and a searchable command history (`Ctrl+R`).
+
+**Tech Stack:** `C` `Linux API` `X11 (Xlib)`
+
+
+### 📝 SyncText: A CRDT-Based Collaborative Text Editor
+
+**SyncText** is a lock-free, distributed collaborative text editor that allows multiple users to edit the same document simultaneously without conflicts. I engineered the synchronization engine from the ground up using **Conflict-Free Replicated Data Types (CRDTs)**, mimicking the core logic behind tools like Google Docs to ensure eventual consistency without relying on traditional mutex locks.
+
+**Key Features:**
+* **✨ Conflict-Free Editing:** Implements a **Last-Writer-Wins (LWW)** CRDT strategy to merge concurrent edits deterministically across distributed nodes.
+* **🚀 Distributed Architecture:** Orchestrates user discovery via **Shared Memory** and broadcasts updates using **Message Queues (IPC)** for real-time propagation.
+* **⚡ Smart Change Detection:** Features a custom file monitoring engine using the **Myers Diff Algorithm** to detect precise line and character modifications.
+* **🛠️ Optimized Performance:** Uses an **Event-Driven** architecture with operation batching ($N=5$) to eliminate flickering and minimize network overhead.
+
+**Tech Stack:** `C++17` `POSIX Shared Memory` `Message Queues` `CRDT` `Multithreading`
 <br/>
 
 <div align="center">
